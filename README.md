@@ -11,8 +11,7 @@ Auto Attendance – Students check in via QR code / location-based system.
 Gamification – Earn points for attending classes, climb the leaderboard, and redeem rewards.
 
 Video Presentation:
-
-Prototype Screens:
+https://youtu.be/vKrZjDMrur4
 
 Reward System (Gamification):
 Students earn XP points for consistent attendance. Points can be redeemed for:
